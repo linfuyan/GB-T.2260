@@ -1,0 +1,1214 @@
+{
+    "regions": [
+        {
+            "code": "110000",
+            "name": "北京市",
+            "abbr": "BJ",
+            "full": "Beijing Shi",
+            "level": 1
+        },
+        {
+            "code": "120000",
+            "name": "天津市",
+            "abbr": "TJ",
+            "full": "Tianjin Shi",
+            "level": 1
+        },
+        {
+            "code": "130000",
+            "name": "河北省",
+            "abbr": "HE",
+            "full": "Hebei Sheng",
+            "level": 1
+        },
+        {
+            "code": "140000",
+            "name": "山西省",
+            "abbr": "SX",
+            "full": "Shanxi Sheng",
+            "level": 1
+        },
+        {
+            "code": "150000",
+            "name": "内蒙古自治区",
+            "abbr": "NM",
+            "full": "Nei Mongol Zizhiqu",
+            "level": 1
+        },
+        {
+            "code": "210000",
+            "name": "辽宁省",
+            "abbr": "LN",
+            "full": "Liaoning Sheng",
+            "level": 1
+        },
+        {
+            "code": "220000",
+            "name": "吉林省",
+            "abbr": "JL",
+            "full": "Jilin Sheng",
+            "level": 1
+        },
+        {
+            "code": "230000",
+            "name": "黑龙江省",
+            "abbr": "HL",
+            "full": "Heilongjiang Sheng",
+            "level": 1
+        },
+        {
+            "code": "310000",
+            "name": "上海市",
+            "abbr": "SH",
+            "full": "Shanghai Shi",
+            "level": 1
+        },
+        {
+            "code": "320000",
+            "name": "江苏省",
+            "abbr": "JS",
+            "full": "Jiangsu Sheng",
+            "level": 1
+        },
+        {
+            "code": "330000",
+            "name": "浙江省",
+            "abbr": "ZJ",
+            "full": "Zhejiang Sheng",
+            "level": 1
+        },
+        {
+            "code": "340000",
+            "name": "安徽省",
+            "abbr": "AH",
+            "full": "Anhui Sheng",
+            "level": 1
+        },
+        {
+            "code": "350000",
+            "name": "福建省",
+            "abbr": "FJ",
+            "full": "Fujian Sheng",
+            "level": 1
+        },
+        {
+            "code": "360000",
+            "name": "江西省",
+            "abbr": "JX",
+            "full": "Jiangxi Sheng",
+            "level": 1
+        },
+        {
+            "code": "370000",
+            "name": "山东省",
+            "abbr": "SD",
+            "full": "Shandong Sheng",
+            "level": 1
+        },
+        {
+            "code": "410000",
+            "name": "河南省",
+            "abbr": "HA",
+            "full": "Henan Sheng",
+            "level": 1
+        },
+        {
+            "code": "420000",
+            "name": "湖北省",
+            "abbr": "HB",
+            "full": "Hubei Sheng",
+            "level": 1
+        },
+        {
+            "code": "430000",
+            "name": "湖南省",
+            "abbr": "HN",
+            "full": "Hunan Sheng",
+            "level": 1
+        },
+        {
+            "code": "440000",
+            "name": "广东省",
+            "abbr": "JD",
+            "full": "Guangdong Sheng",
+            "level": 1
+        },
+        {
+            "code": "450000",
+            "name": "广西壮族自治区",
+            "abbr": "GX",
+            "full": "Guangxi Zhuangzu Zizhiqu",
+            "level": 1
+        },
+        {
+            "code": "460000",
+            "name": "海南省",
+            "abbr": "HI",
+            "full": "Hainan Sheng",
+            "level": 1
+        },
+        {
+            "code": "500000",
+            "name": "重庆市",
+            "abbr": "CQ",
+            "full": "Chongqing Shi",
+            "level": 1
+        },
+        {
+            "code": "510000",
+            "name": "四川省",
+            "abbr": "SC",
+            "full": "Sichuan Sheng",
+            "level": 1
+        },
+        {
+            "code": "520000",
+            "name": "贵州省",
+            "abbr": "GZ",
+            "full": "Guizhou Sheng",
+            "level": 1
+        },
+        {
+            "code": "530000",
+            "name": "云南省",
+            "abbr": "YN",
+            "full": "Yunnan Sheng",
+            "level": 1
+        },
+        {
+            "code": "540000",
+            "name": "西藏自治区",
+            "abbr": "XZ",
+            "full": "Xizang Zizhiqu",
+            "level": 1
+        },
+        {
+            "code": "610000",
+            "name": "陕西省",
+            "abbr": "SN",
+            "full": "Shaanxi Sheng",
+            "level": 1
+        },
+        {
+            "code": "620000",
+            "name": "甘肃省",
+            "abbr": "GS",
+            "full": "Gansu Sheng",
+            "level": 1
+        },
+        {
+            "code": "630000",
+            "name": "青海省",
+            "abbr": "QH",
+            "full": "Qinghai Sheng",
+            "level": 1
+        },
+        {
+            "code": "640000",
+            "name": "宁夏回族自治区",
+            "abbr": "NX",
+            "full": "Ningxia Huizu Zizhiqu",
+            "level": 1
+        },
+        {
+            "code": "650000",
+            "name": "新疆维吾尔自治区",
+            "abbr": "XJ",
+            "full": "Xinjiang Uygur Zizhiqu",
+            "level": 1
+        },
+        {
+            "code": "710000",
+            "name": "台湾省",
+            "abbr": "TW",
+            "full": "Taiwan Sheng",
+            "level": 1
+        },
+        {
+            "code": "810000",
+            "name": "香港特别行政区",
+            "abbr": "HK",
+            "full": "Hongkong Tebiexingzhengqu",
+            "level": 1
+        },
+        {
+            "code": "820000",
+            "name": "澳门特别行政区",
+            "abbr": "MO",
+            "full": "Macau Tebiexingzhengqu",
+            "level": 1
+        },
+        {
+            "code": "110100",
+            "name": "市辖区",
+            "abbr": "",
+            "full": "Shixiaqu",
+            "level": 2,
+            "parent": "110000"
+        },
+        {
+            "code": "110101",
+            "name": "东城区",
+            "abbr": "DCQ",
+            "full": "Dongcheng Qu",
+            "level": 3,
+            "parent": "110100"
+        },
+        {
+            "code": "110102",
+            "name": "西城区",
+            "abbr": "XCQ",
+            "full": "Xicheng Qu",
+            "level": 3,
+            "parent": "110100"
+        },
+        {
+            "code": "110103",
+            "name": "崇文区",
+            "abbr": "CWQ",
+            "full": "Chongwen Qu",
+            "level": 3,
+            "parent": "110100"
+        },
+        {
+            "code": "110104",
+            "name": "宣武区",
+            "abbr": "XWQ",
+            "full": "Xuanwu Qu",
+            "level": 3,
+            "parent": "110100"
+        },
+        {
+            "code": "110105",
+            "name": "朝阳区",
+            "abbr": "CYQ",
+            "full": "Chaoyang Qu",
+            "level": 3,
+            "parent": "110100"
+        },
+        {
+            "code": "110106",
+            "name": "丰台区",
+            "abbr": "FTQ",
+            "full": "Fengtai Qu",
+            "level": 3,
+            "parent": "110100"
+        },
+        {
+            "code": "110107",
+            "name": "石景山区",
+            "abbr": "SJS",
+            "full": "Shijingshan Qu",
+            "level": 3,
+            "parent": "110100"
+        },
+        {
+            "code": "110108",
+            "name": "海淀区",
+            "abbr": "HDN",
+            "full": "Haidian Qu",
+            "level": 3,
+            "parent": "110100"
+        },
+        {
+            "code": "110109",
+            "name": "门头沟区",
+            "abbr": "MTG",
+            "full": "Mentougou Qu",
+            "level": 3,
+            "parent": "110100"
+        },
+        {
+            "code": "110111",
+            "name": "房山区",
+            "abbr": "FSQ",
+            "full": "Fangshan Qu",
+            "level": 3,
+            "parent": "110100"
+        },
+        {
+            "code": "110112",
+            "name": "通州区",
+            "abbr": "TZQ",
+            "full": "Tongzhou Qu",
+            "level": 3,
+            "parent": "110100"
+        },
+        {
+            "code": "110113",
+            "name": "顺义区",
+            "abbr": "SYI",
+            "full": "Shunyi Qu",
+            "level": 3,
+            "parent": "110100"
+        },
+        {
+            "code": "101114",
+            "name": "昌平区",
+            "abbr": "CHP",
+            "full": "Changping Qu",
+            "level": 3,
+            "parent": "110100"
+        },
+        {
+            "code": "110115",
+            "name": "大兴区",
+            "abbr": "DXU",
+            "full": "Daxing Qu",
+            "level": 3,
+            "parent": "110100"
+        },
+        {
+            "code": "110116",
+            "name": "怀柔区",
+            "abbr": "HRO",
+            "full": "Huairou Qu",
+            "level": 3,
+            "parent": "110100"
+        },
+        {
+            "code": "110117",
+            "name": "平谷区",
+            "abbr": "PGU",
+            "full": "Pinggu Qu",
+            "level": 3,
+            "parent": "110100"
+        },
+        {
+            "code": "110200",
+            "name": "县",
+            "abbr": "",
+            "full": "Xian",
+            "level": 2,
+            "parent": "110000"
+        },
+        {
+            "code": "110228",
+            "name": "密云县",
+            "abbr": "MYN",
+            "full": "Miyun Xian",
+            "level": 3,
+            "parent": "110200"
+        },
+        {
+            "code": "110229",
+            "name": "延庆县",
+            "abbr": "YQX",
+            "full": "Yanqing Xian",
+            "level": 3,
+            "parent": "110200"
+        },
+        {
+            "code": "120100",
+            "name": "市辖区",
+            "abbr": "",
+            "full": "Shixiaqu",
+            "level": 2,
+            "parent": "120000"
+        },
+        {
+            "code": "120101",
+            "name": "和平区",
+            "abbr": "HEP",
+            "full": "Heping Qu",
+            "level": 3,
+            "parent": "120100"
+        },
+        {
+            "code": "120102",
+            "name": "河东区",
+            "abbr": "HDQ",
+            "full": "Hedong Qu",
+            "level": 3,
+            "parent": "120100"
+        },
+        {
+            "code": "120103",
+            "name": "河西区",
+            "abbr": "HXQ",
+            "full": "Hexi Qu",
+            "level": 3,
+            "parent": "120100"
+        },
+        {
+            "code": "120104",
+            "name": "南开区",
+            "abbr": "NKQ",
+            "full": "Nankai Qu",
+            "level": 3,
+            "parent": "120100"
+        },
+        {
+            "code": "120105",
+            "name": "河北区",
+            "abbr": "HBQ",
+            "full": "Hebei Qu",
+            "level": 3,
+            "parent": "120100"
+        },
+        {
+            "code": "120106",
+            "name": "红桥区",
+            "abbr": "HQO",
+            "full": "Hongqiao Qu",
+            "level": 3,
+            "parent": "120100"
+        },
+        {
+            "code": "120107",
+            "name": "塘沽区",
+            "abbr": "TGA",
+            "full": "Tanggu Qu",
+            "level": 3,
+            "parent": "120100"
+        },
+        {
+            "code": "120108",
+            "name": "汉沽区",
+            "abbr": "HGQ",
+            "full": "Hangu Qu",
+            "level": 3,
+            "parent": "120100"
+        },
+        {
+            "code": "120109",
+            "name": "大港区",
+            "abbr": "DGJ",
+            "full": "Dagang Qu",
+            "level": 3,
+            "parent": "120100"
+        },
+        {
+            "code": "120110",
+            "name": "东丽区",
+            "abbr": "DLI",
+            "full": "Dongli Qu",
+            "level": 3,
+            "parent": "120100"
+        },
+        {
+            "code": "120111",
+            "name": "西青区",
+            "abbr": "XQG",
+            "full": "Xiqing Qu",
+            "level": 3,
+            "parent": "120100"
+        },
+        {
+            "code": "120112",
+            "name": "津南区",
+            "abbr": "JNQ",
+            "full": "Jinnan Qu",
+            "level": 3,
+            "parent": "120100"
+        },
+        {
+            "code": "120113",
+            "name": "北辰区",
+            "abbr": "BCQ",
+            "full": "Beichen Qu",
+            "level": 3,
+            "parent": "120100"
+        },
+        {
+            "code": "120114",
+            "name": "武清区",
+            "abbr": "WQQ",
+            "full": "Wuqing Qu",
+            "level": 3,
+            "parent": "120100"
+        },
+        {
+            "code": "120115",
+            "name": "宝坻区",
+            "abbr": "BDI",
+            "full": "Baodi Qu",
+            "level": 3,
+            "parent": "120100"
+        },
+        {
+            "code": "120200",
+            "name": "县",
+            "abbr": "",
+            "full": "Xian",
+            "level": 2,
+            "parent": "120000"
+        },
+        {
+            "code": "120221",
+            "name": "宁河县",
+            "abbr": "NHE",
+            "full": "Ninghe Xian",
+            "level": 3,
+            "parent": "120200"
+        },
+        {
+            "code": "120223",
+            "name": "静海县",
+            "abbr": "JHT",
+            "full": "Jinghai Xian",
+            "level": 3,
+            "parent": "120200"
+        },
+        {
+            "code": "120225",
+            "name": "蓟县",
+            "abbr": "JIT",
+            "full": "Ji Xian",
+            "level": 3,
+            "parent": "120200"
+        },{
+            "code": "130100",
+            "name": "石家庄市",
+            "abbr": "SJW",
+            "full": "Shijiazhuang Shi",
+            "level": 2,
+            "parent": "130000"
+        },{
+            "code": "130101",
+            "name": "市辖区",
+            "abbr": "",
+            "full": "Shixiaqu",
+            "level": 3,
+            "parent": "130100"
+        },{
+            "code": "130102",
+            "name": "长安区",
+            "abbr": "CAQ",
+            "full": "Chang'an Qu",
+            "level": 3,
+            "parent": "130100"
+        },{
+            "code": "130103",
+            "name": "桥东区",
+            "abbr": "QDQ",
+            "full": "Qiaodong Qu",
+            "level": 3,
+            "parent": "130100"
+        },{
+            "code": "130104",
+            "name": "桥西区",
+            "abbr": "QXI",
+            "full": "Qiaoxi Qu",
+            "level": 3,
+            "parent": "130100"
+        },{
+            "code": "130105",
+            "name": "新华区",
+            "abbr": "XHR",
+            "full": "Xinhua Qu",
+            "level": 3,
+            "parent": "130100"
+        },{
+            "code": "130107",
+            "name": "井陉矿区",
+            "abbr": "JXK",
+            "full": "Jingxing Kuangqu",
+            "level": 3,
+            "parent": "130100"
+        },{
+            "code": "130108",
+            "name": "裕华区",
+            "abbr": "YUH",
+            "full": "Yuhua Qu",
+            "level": 3,
+            "parent": "130100"
+        },{
+            "code": "130121",
+            "name": "井陉县",
+            "abbr": "JXJ",
+            "full": "Jingxing Xian",
+            "level": 3,
+            "parent": "130100"
+        },{
+            "code": "130123",
+            "name": "正定县",
+            "abbr": "ZDJ",
+            "full": "Zhengding Xian",
+            "level": 3,
+            "parent": "130100"
+        },{
+            "code": "130124",
+            "name": "栾城县",
+            "abbr": "LCG",
+            "full": "Luancheng Xian",
+            "level": 3,
+            "parent": "130100"
+        },{
+            "code": "130125",
+            "name": "行唐县",
+            "abbr": "XTG",
+            "full": "Xingtang Xian",
+            "level": 3,
+            "parent": "130100"
+        },{
+            "code": "130126",
+            "name": "灵寿县",
+            "abbr": "LSO",
+            "full": "Lingshou Xian",
+            "level": 3,
+            "parent": "130100"
+        },{
+            "code": "130127",
+            "name": "高邑县",
+            "abbr": "GYJ",
+            "full": "Gaoyi Xian",
+            "level": 3,
+            "parent": "130100"
+        },{
+            "code": "130128",
+            "name": "深泽县",
+            "abbr": "SZE",
+            "full": "Shenze Xian",
+            "level": 3,
+            "parent": "130100"
+        },{
+            "code": "130129",
+            "name": "赞皇县",
+            "abbr": "ZHG",
+            "full": "Zanhuang Xian",
+            "level": 3,
+            "parent": "130100"
+        },{
+            "code": "130130",
+            "name": "无极县",
+            "abbr": "WJI",
+            "full": "Wuji Xian",
+            "level": 3,
+            "parent": "130100"
+        },{
+            "code": "130131",
+            "name": "平山县",
+            "abbr": "PSH",
+            "full": "Pingshan Xian",
+            "level": 3,
+            "parent": "130100"
+        },{
+            "code": "130132",
+            "name": "元氏县",
+            "abbr": "YSI",
+            "full": "Yuanshi Xian",
+            "level": 3,
+            "parent": "130100"
+        },{
+            "code": "130133",
+            "name": "赵县",
+            "abbr": "ZAO",
+            "full": "Zhao Xian",
+            "level": 3,
+            "parent": "130100"
+        },{
+            "code": "130181",
+            "name": "辛集市",
+            "abbr": "XJS",
+            "full": "Xinji Shi",
+            "level": 3,
+            "parent": "130100"
+        },{
+            "code": "130182",
+            "name": "藁城市",
+            "abbr": "GCS",
+            "full": "Gaocheng Shi",
+            "level": 3,
+            "parent": "130100"
+        },{
+            "code": "130183",
+            "name": "晋州市",
+            "abbr": "JZJ",
+            "full": "Jinzhou Shi",
+            "level": 3,
+            "parent": "130100"
+        },{
+            "code": "130184",
+            "name": "新乐市",
+            "abbr": "XLE",
+            "full": "Xinle Shi",
+            "level": 3,
+            "parent": "130100"
+        },{
+            "code": "130185",
+            "name": "鹿泉市",
+            "abbr": "LUQ",
+            "full": "Luquan Shi",
+            "level": 3,
+            "parent": "130100"
+        },{
+            "code": "130200",
+            "name": "唐山市",
+            "abbr": "TGS",
+            "full": "Tangshan Shi",
+            "level": 2,
+            "parent": "130000"
+        },{
+            "code": "130201",
+            "name": "市辖区",
+            "abbr": "",
+            "full": "Shixiaqu",
+            "level": 3,
+            "parent": "130200"
+        },{
+            "code": "130202",
+            "name": "路南区",
+            "abbr": "LNB",
+            "full": "Lunan Qu",
+            "level": 3,
+            "parent": "130200"
+        },{
+            "code": "130203",
+            "name": "路北区",
+            "abbr": "LBQ",
+            "full": "Lubei Qu",
+            "level": 3,
+            "parent": "130200"
+        },{
+            "code": "130204",
+            "name": "古冶区",
+            "abbr": "GYE",
+            "full": "Guye Qu",
+            "level": 3,
+            "parent": "130200"
+        },{
+            "code": "130205",
+            "name": "开平区",
+            "abbr": "KPQ",
+            "full": "Kaiping Qu",
+            "level": 3,
+            "parent": "130200"
+        },{
+            "code": "130207",
+            "name": "丰南区",
+            "abbr": "FNQ",
+            "full": "Fengnan Qu",
+            "level": 3,
+            "parent": "130200"
+        },{
+            "code": "130208",
+            "name": "丰润区",
+            "abbr": "FRN",
+            "full": "Fengrun Qu",
+            "level": 3,
+            "parent": "130200"
+        },{
+            "code": "130223",
+            "name": "滦县",
+            "abbr": "LUA",
+            "full": "Luan Xian",
+            "level": 3,
+            "parent": "130200"
+        },{
+            "code": "130224",
+            "name": "滦南县",
+            "abbr": "LNJ",
+            "full": "Luannan Xian",
+            "level": 3,
+            "parent": "130200"
+        },{
+            "code": "130225",
+            "name": "乐亭县",
+            "abbr": "LTJ",
+            "full": "Leting Xian",
+            "level": 3,
+            "parent": "130200"
+        },{
+            "code": "130227",
+            "name": "迁西县",
+            "abbr": "QXX",
+            "full": "Qianxi Xian",
+            "level": 3,
+            "parent": "130200"
+        },{
+            "code": "130229",
+            "name": "玉田县",
+            "abbr": "YTJ",
+            "full": "Yutian Xian",
+            "level": 3,
+            "parent": "130200"
+        },{
+            "code": "130230",
+            "name": "唐海县",
+            "abbr": "THA",
+            "full": "Tanghai Xian",
+            "level": 3,
+            "parent": "130200"
+        },{
+            "code": "130281",
+            "name": "遵化市",
+            "abbr": "ZNH",
+            "full": "Zunhua Shi",
+            "level": 3,
+            "parent": "130200"
+        },{
+            "code": "130283",
+            "name": "迁安市",
+            "abbr": "QAS",
+            "full": "Qian'an Shi",
+            "level": 3,
+            "parent": "130200"
+        },{
+            "code": "130300",
+            "name": "秦皇岛市",
+            "abbr": "SHP",
+            "full": "Qinhuangdao Shi",
+            "level": 2,
+            "parent": "130000"
+        },{
+            "code": "130301",
+            "name": "市辖区",
+            "abbr": "",
+            "full": "Shixiaqu",
+            "level": 3,
+            "parent": "130300"
+        },{
+            "code": "130302",
+            "name": "海港区",
+            "abbr": "HGG",
+            "full": "Haigang Qu",
+            "level": 3,
+            "parent": "130300"
+        },{
+            "code": "130303",
+            "name": "山海关区",
+            "abbr": "SHG",
+            "full": "Shanhaiguan Qu",
+            "level": 3,
+            "parent": "130300"
+        },{
+            "code": "130304",
+            "name": "北戴河区",
+            "abbr": "BDH",
+            "full": "Beidaihe Qu",
+            "level": 3,
+            "parent": "130300"
+        },{
+            "code": "130321",
+            "name": "青龙满族自治县",
+            "abbr": "QLM",
+            "full": "Qinglong Manzu Zizhixian",
+            "level": 3,
+            "parent": "130300"
+        },{
+            "code": "130322",
+            "name": "昌黎县",
+            "abbr": "CGL",
+            "full": "Changli Xian",
+            "level": 3,
+            "parent": "130300"
+        },{
+            "code": "130323",
+            "name": "抚宁县",
+            "abbr": "FUN",
+            "full": "Funing Xian",
+            "level": 3,
+            "parent": "130300"
+        },{
+            "code": "130324",
+            "name": "卢龙县",
+            "abbr": "LLG",
+            "full": "Lulong Xian",
+            "level": 3,
+            "parent": "130300"
+        },{
+            "code": "130400",
+            "name": "邯郸市",
+            "abbr": "HDS",
+            "full": "Handan Shi",
+            "level": 2,
+            "parent": "130000"
+        },{
+            "code": "130401",
+            "name": "市辖区",
+            "abbr": "",
+            "full": "Shixiaqu",
+            "level": 3,
+            "parent": "130400"
+        },{
+            "code": "130402",
+            "name": "邯山区",
+            "abbr": "HHD",
+            "full": "Hanshan Qu",
+            "level": 3,
+            "parent": "130400"
+        },{
+            "code": "130403",
+            "name": "丛台区",
+            "abbr": "CTQ",
+            "full": "Congtai Qu",
+            "level": 3,
+            "parent": "130400"
+        },{
+            "code": "130404",
+            "name": "复兴区",
+            "abbr": "FXQ",
+            "full": "Fuxing Qu",
+            "level": 3,
+            "parent": "130400"
+        },{
+            "code": "130406",
+            "name": "峰峰矿区",
+            "abbr": "FFK",
+            "full": "Fengfeng Kuangqu",
+            "level": 3,
+            "parent": "130400"
+        },{
+            "code": "130421",
+            "name": "邯郸县",
+            "abbr": "HDX",
+            "full": "Handan Xian",
+            "level": 3,
+            "parent": "130400"
+        },{
+            "code": "130423",
+            "name": "临漳县",
+            "abbr": "LNZ",
+            "full": "Linzhang Xian",
+            "level": 3,
+            "parent": "130400"
+        },{
+            "code": "130424",
+            "name": "成安县",
+            "abbr": "CAJ",
+            "full": "Cheng'an Xian",
+            "level": 3,
+            "parent": "130400"
+        },{
+            "code": "130425",
+            "name": "大名县",
+            "abbr": "DMX",
+            "full": "Daming Xian",
+            "level": 3,
+            "parent": "130400"
+        },{
+            "code": "130426",
+            "name": "涉县",
+            "abbr": "SEJ",
+            "full": "She Xian",
+            "level": 3,
+            "parent": "130400"
+        },{
+            "code": "130427",
+            "name": "磁县",
+            "abbr": "CIX",
+            "full": "Ci Xian",
+            "level": 3,
+            "parent": "130400"
+        },{
+            "code": "130428",
+            "name": "肥乡县",
+            "abbr": "FXJ",
+            "full": "Feixiang Xian",
+            "level": 3,
+            "parent": "130400"
+        },{
+            "code": "130429",
+            "name": "永年县",
+            "abbr": "YON",
+            "full": "Yongnian Xian",
+            "level": 3,
+            "parent": "130400"
+        },{
+            "code": "130430",
+            "name": "邱县",
+            "abbr": "QIU",
+            "full": "Qiu Xian",
+            "level": 3,
+            "parent": "130400"
+        },{
+            "code": "130431",
+            "name": "鸡泽县",
+            "abbr": "JZE",
+            "full": "Jize Xian",
+            "level": 3,
+            "parent": "130400"
+        },{
+            "code": "130432",
+            "name": "广平县",
+            "abbr": "GPX",
+            "full": "Guangping Xian",
+            "level": 3,
+            "parent": "130400"
+        },{
+            "code": "130433",
+            "name": "馆陶县",
+            "abbr": "GTO",
+            "full": "Guantao Xian",
+            "level": 3,
+            "parent": "130400"
+        },{
+            "code": "130434",
+            "name": "魏县",
+            "abbr": "WEI",
+            "full": "Wei Xian",
+            "level": 3,
+            "parent": "130400"
+        },{
+            "code": "130435",
+            "name": "曲周县",
+            "abbr": "QZX",
+            "full": "Quzhou Xian",
+            "level": 3,
+            "parent": "130400"
+        },{
+            "code": "130481",
+            "name": "武安市",
+            "abbr": "WUA",
+            "full": "Wu'an Shi",
+            "level": 3,
+            "parent": "130400"
+        },{
+            "code": "130500",
+            "name": "邢台市",
+            "abbr": "XTS",
+            "full": "Xingtai Shi",
+            "level": 2,
+            "parent": "130000"
+        },{
+            "code": "130501",
+            "name": "市辖区",
+            "abbr": "",
+            "full": "Shixiaqu",
+            "level": 3,
+            "parent": "130500"
+        },{
+            "code": "130502",
+            "name": "桥东区",
+            "abbr": "QDZ",
+            "full": "Qiaodong Qu",
+            "level": 3,
+            "parent": "130500"
+        },{
+            "code": "130503",
+            "name": "桥西区",
+            "abbr": "QXQ",
+            "full": "Qiaoxi Qu",
+            "level": 3,
+            "parent": "130500"
+        },{
+            "code": "130521",
+            "name": "邢台县",
+            "abbr": "XTJ",
+            "full": "Xingtai Xian",
+            "level": 3,
+            "parent": "130500"
+        },{
+            "code": "130522",
+            "name": "临城县",
+            "abbr": "LNC",
+            "full": "Lincheng Xian",
+            "level": 3,
+            "parent": "130500"
+        },{
+            "code": "1305023",
+            "name": "内丘县",
+            "abbr": "NQU",
+            "full": "Neiqiu Xian",
+            "level": 3,
+            "parent": "130500"
+        },{
+            "code": "130524",
+            "name": "柏乡县",
+            "abbr": "BXG",
+            "full": "Baixiang Xian",
+            "level": 3,
+            "parent": "130500"
+        },{
+            "code": "130525",
+            "name": "隆尧县",
+            "abbr": "LYO",
+            "full": "Longyao Xian",
+            "level": 3,
+            "parent": "130500"
+        },{
+            "code": "130526",
+            "name": "任县",
+            "abbr": "REN",
+            "full": "Ren Xian",
+            "level": 3,
+            "parent": "130500"
+        },{
+            "code": "130527",
+            "name": "南和县",
+            "abbr": "NHX",
+            "full": "Nanhe Xian",
+            "level": 3,
+            "parent": "130500"
+        },{
+            "code": "130528",
+            "name": "宁晋县",
+            "abbr": "NJN",
+            "full": "Ningjin Xian",
+            "level": 3,
+            "parent": "130500"
+        },{
+            "code": "130529",
+            "name": "巨鹿县",
+            "abbr": "JLU",
+            "full": "Julu Xian",
+            "level": 3,
+            "parent": "130500"
+        },{
+            "code": "130530",
+            "name": "新河县",
+            "abbr": "XHJ",
+            "full": "Xinhe Xian",
+            "level": 3,
+            "parent": "130500"
+        },{
+            "code": "130531",
+            "name": "广宗县",
+            "abbr": "GZJ",
+            "full": "Guangzong Xian",
+            "level": 3,
+            "parent": "130500"
+        },{
+            "code": "130532",
+            "name": "平乡县",
+            "abbr": "PXX",
+            "full": "Pingxiang Xian",
+            "level": 3,
+            "parent": "130500"
+        },{
+            "code": "130533",
+            "name": "威县",
+            "abbr": "WEX",
+            "full": "Wei Xian",
+            "level": 3,
+            "parent": "130500"
+        },{
+            "code": "130534",
+            "name": "清河县",
+            "abbr": "QHE",
+            "full": "Qinghe Xian",
+            "level": 3,
+            "parent": "130500"
+        },{
+            "code": "130535",
+            "name": "临西县",
+            "abbr": "LXI",
+            "full": "Linxi Xian",
+            "level": 3,
+            "parent": "130500"
+        },{
+            "code": "1305081",
+            "name": "南宫市",
+            "abbr": "NGO",
+            "full": "Nangong Shi",
+            "level": 3,
+            "parent": "130500"
+        },{
+            "code": "130582",
+            "name": "沙河市",
+            "abbr": "SHS",
+            "full": "Shahe Shi",
+            "level": 3,
+            "parent": "130500"
+        },{
+            "code": "",
+            "name": "",
+            "abbr": "",
+            "full": "",
+            "level": 3,
+            "parent": "130300"
+        }
+        
+    ]
+}
